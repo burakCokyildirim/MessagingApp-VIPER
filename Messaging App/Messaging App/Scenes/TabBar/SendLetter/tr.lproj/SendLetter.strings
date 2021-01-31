@@ -1,0 +1,84 @@
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "2yx-H6-tDG"; */
+"2yx-H6-tDG.normalTitle" = "İleri";
+
+/* Class = "UIViewController"; title = "Person Selection"; ObjectID = "3DW-3C-WKm"; */
+"3DW-3C-WKm.title" = "Kime Göndereceksin?";
+
+/* Class = "UILabel"; text = "10g 14s 10dk "; ObjectID = "3gD-Jo-cIk"; */
+"3gD-Jo-cIk.text" = "10g 14s 10dk ";
+
+/* Class = "UILabel"; text = "Your letter will look like this:"; ObjectID = "4Hd-SR-GWB"; */
+"4Hd-SR-GWB.text" = "Mektubunuz bu şekilde görünecek:";
+
+/* Class = "UITextField"; placeholder = "Enter Username"; ObjectID = "5sI-WB-E9c"; */
+"5sI-WB-E9c.placeholder" = "Kullanıcı adı girin";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "6ZN-gH-TSV"; */
+"6ZN-gH-TSV.normalTitle" = "Geri";
+
+/* Class = "UILabel"; text = "Burak Çokyıldırım"; ObjectID = "EyY-eQ-Sb1"; */
+"EyY-eQ-Sb1.text" = "Burak Çokyıldırım";
+
+/* Class = "UILabel"; text = "Who do you want to send your letter to?\nPlease enter the registered username."; ObjectID = "IbP-SK-5Fl"; */
+"IbP-SK-5Fl.text" = "Mektubunu kime göndermek istiyorsun?\nLütfen kayıtlı kullanıcı adını giriniz.";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Iq1-bB-abK"; */
+"Iq1-bB-abK.normalTitle" = "İleri";
+
+/* Class = "UIViewController"; title = "Write"; ObjectID = "Jlt-vn-rM3"; */
+"Jlt-vn-rM3.title" = "Aklındakini Kağıda Dök !";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Jmq-vb-gPA"; */
+"Jmq-vb-gPA.normalTitle" = "Geri";
+
+/* Class = "UILabel"; text = "With which stamp will you send the letter?"; ObjectID = "Nn6-gw-N6f"; */
+"Nn6-gw-N6f.text" = "Mektubu hangi pulla göndereceksin?";
+
+/* Class = "UILabel"; text = "10g 14s 10dk "; ObjectID = "PBt-pA-Mtc"; */
+"PBt-pA-Mtc.text" = "10g 14s 10dk ";
+
+/* Class = "UIViewController"; title = "Select Paper"; ObjectID = "QKu-Tz-Acn"; */
+"QKu-Tz-Acn.title" = "Kağıt Seç";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "Rvd-HE-Rbv"; */
+"Rvd-HE-Rbv.normalTitle" = "Gönder";
+
+/* Class = "UIViewController"; title = "Select Stamp"; ObjectID = "UFL-Fv-HSl"; */
+"UFL-Fv-HSl.title" = "Pulunu Seç";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "dGe-4d-DRM"; */
+"dGe-4d-DRM.normalTitle" = "İleri";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "dIx-bb-GLw"; */
+"dIx-bb-GLw.normalTitle" = "İleri";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "dUC-iS-vci"; */
+"dUC-iS-vci.normalTitle" = "Geri";
+
+/* Class = "UILabel"; text = "10g 14s 10dk "; ObjectID = "dvq-E2-p2t"; */
+"dvq-E2-p2t.text" = "10g 14s 10dk ";
+
+/* Class = "UILabel"; text = "Choose how you want to send your letter!"; ObjectID = "g1o-eG-ZqT"; */
+"g1o-eG-ZqT.text" = "Mektubunu nasıl göndermek istediğini seç!";
+
+/* Class = "UIViewController"; title = "Preview"; ObjectID = "nKI-8n-HjJ"; */
+"nKI-8n-HjJ.title" = "Önizleme";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ot9-Mp-4ge"; */
+"ot9-Mp-4ge.normalTitle" = "İleri";
+
+/* Class = "UILabel"; text = "10g 14s 10dk "; ObjectID = "pf4-5H-bek"; */
+"pf4-5H-bek.text" = "10g 14s 10dk ";
+
+/* Class = "UIViewController"; title = "How to send?"; ObjectID = "sKk-sA-srC"; */
+"sKk-sA-srC.title" = "Nasıl Gitsin?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "war-Ri-dHg"; */
+"war-Ri-dHg.normalTitle" = "Geri";
+
+/* Class = "UILabel"; text = "Invite your friend!"; ObjectID = "yus-LB-HUn"; */
+"yus-LB-HUn.text" = "Arkadaşlarını davet et!";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "zzk-SD-bKZ"; */
+"zzk-SD-bKZ.normalTitle" = "Geri";

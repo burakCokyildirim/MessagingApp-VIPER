@@ -1,0 +1,129 @@
+/* 
+  Localizable. strings.strings
+  Messaging App
+
+  Created by Burak Çokyıldırım on 3.04.2020.
+  Copyright © 2020 Softbea. All rights reserved.
+*/
+
+"register.select_this_location" = "Bu konumu seç.";
+
+"confirmation_code.enter_phone_number" = "Telefon Numaranızı Girin";
+"confirmation_code.verify_phone_number" = "Telefon Numaranızı Doğrulayın";
+"confirmation_code.enter_address_information" = "Adres Bilginizi Girin";
+
+"confirmation_code.verify_text" = "Lütfen hesabınızı doğrulayabilmemiz için telefon numaranızı girin.";
+"confirmation_code.check_sms_text" = "SMS mesajlarınızı kontrol edin. +%d%.0f numarasına sms gönderdik.";
+"confirmation_code.address_text" = "Mektup gönderme (temsili) süresinin hesaplanabilmesi için adres bilginize ihtiyacımız var.";
+
+"confirmation_code.send_again_text" = "Tekrar gönder";
+
+"tab-bar.home" = "Ana Sayfa";
+"tab-bar.incoming" = "Gelen";
+"tab-bar.outgoing" = "Gönderilen";
+"tab-bar.follow" = "Takip";
+
+"home.have_letter_to_future" = "%d Mektubun Yolda !";
+"home.not_have_letter_to_future" = "Gelecek mektubun yok.";
+
+"format_day" = "%02dg";
+"format_hour" = "%02ds";
+"format_minute" = "%02ddk";
+
+"terms_and_conditions_text1" = "Messaging App %@nı kabul ediyorum.";
+"terms_and_conditions_text2" = "Şartlar ve Koşulları";
+
+"terms_of_use_link" = "https://test.com/kullanim-kosullari.html";
+"privacy_policy_link" = "https://test.com/gizlilik-politikasi.html";
+
+"register_button_text1" = "Henüz hesabınız yok mu?\n%@ kaydolun...";
+"register_button_text2" = "Buradan";
+
+"yes" = "Evet";
+"no" = "Hayır";
+"ok" = "Tamam";
+"close" = "İptal";
+"cancel" = "İptal";
+"warning" = "Uyarı";
+"error" = "Hata";
+"success" = "Başarılı";
+"generic" = "Hata";
+"unknown" = "Bilinmeyen Hata";
+"finish" = "Bitir";
+"next" = "İleri";
+"completed" = "Tamamlandı";
+"skip" = "Geç";
+"attention" = "Dikkat";
+
+
+// Titles
+
+"letters_expected" = "Beklediğim Mektuplar";
+"letters_to_be_transmitted" = "Karşıya İletilecek Mektuplar";
+"letter_time_tracking" = "Mektup Zaman Takibi";
+"my_incoming_letters" = "Gelen Mektuplarım";
+"my_outgoing_letters" = "Giden Mektuplarım";
+"select_envelope" = "Zarfını Seç!";
+"select_your_stamp" = "Pulunu Seç";
+"choose_your_paper" = "Kağıdını Seç!";
+"put_your_mind_on_paper" = "Aklındakini Kağıda Dök!";
+"who_will_send" = "Kime Göndereceksin?";
+"settings" = "Ayarlar";
+"preview" = "Önizleme";
+
+"please_complate" = "Lütfen Tamamlayın";
+
+// Message
+
+"warning_empty_name" = "İsim boş geçilemez!";
+"warning_empty_email" = "Mail boş geçilemez!";
+"warning_empty_phoneNumber" = "Telefon numarası boş geçilemez!";
+"warning_empty_password" = "Şifre boş geçilemez!";
+"warning_short_password" = "Şifre en az 6 karakter uzunluğunda olmalı.";
+"warning_wrong_name" = "Lütfen isminizi doğru bir biçimde giriniz.";
+"warning_wrong_email" = "Lütfen geçerli bir mail adresi giriniz.";
+"warning_empty_confirmation_code" = "Lütfen %d haneli doğrulama kodunuzu giriniz.";
+"warning_empty_letter_content" = "Lütfen mektubunuz için bir şeyler yazınız.";
+"warning_not_select_user" = "Göndermek istediğiniz kullanıcının ismini yazmaya başlayın ve listeden seçin.";
+"warning_empty_areas" = "Alanlar boş geçilemez!";
+"warning_notmatch_passwords" = "Şifreler eşleşmiyor.";
+"warning_is_old_passwords" = "Yeni şifreniz eski şifreniz ile aynı olamaz!";
+"warning_checkbox_unchecked" = "Kayıt işlemini tamamlayabilmek için kutucuğu işaretleyerek \"Şartlar ve Koşulları\" kabul ediniz.";
+"message_text.register_completed_and_email_verify_required" = "Kayıt tamamlandı. Hesabınızı onaylamak için mail kutunuzu kontrol edin.";
+"message_text.successfully_sent_password_reset_link" = "Şifre sıfırlama bağlantısı başarılı bir şekilde mail adresinize gönderildi.";
+"message_text.successfully_sent_letter" = "Tebrikler! Mektubun iletilmek üzere yola çıktı. Şimdi menüden mektubunun ne zaman ulaşacağını takip edebilirsin.";
+"message_text.change_password_process_success" = "Şifreniz başarılı bir şekilde değiştirildi.";
+"message_text.please_enter_address_description" = "Lütfen bir adres açıklaması giriniz.";
+"message_text.no_whatsapp" = "Cihazınızda Whatsapp uygulaması yüklü değil.";
+"message_text.revert_letter" = "Mektubu gönderme işlemini iptal etmek istediğinize emin misiniz?";
+"message_text.block_user" = "Bu kullanıcıyı engellemek istediğinize emin misiniz?";
+"message_text.report_user" = "Bu kullanıcı şikayet etmek istediğinize emin misiniz?";
+"message_text.successed_blocking" = "Kullanıcı başarılı bir şekilde engellendi. Artık bu kullanıcıdan mektup almayacaksınız.";
+"message_text.successed_reporting" = "Şikayetiniz iletildi. Teknik ekibimiz şikayetinizi inceleyecek.";
+
+"error_message.has_no_internet" = "Lütfen internet bağlantınızı kontrol ediniz.";
+"error_message.http_error" = "Servis hatası oluştu.";
+"error_message.somethings_wrong" = "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.";
+"error_message.parse_error" = "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.";
+"error_message.token_expired" = "Oturumunuzun süresi dolmuştur. Lütfen tekrar giriş yapınız.";
+"error_message.validation_error" = "Validasyon hatası.";
+"error_message.wrong_passowrd" = "Yanlış bir e-mail ya da şifre girdiniz.";
+"error_message.old_wrong_passowrd" = "Eski şifrenizi yanlış girdiniz.";
+"error_message.wrong_code" = "Doğrulama kodunuz yanlış.";
+"error_message.email_activation_required" = "Mail aktivasyonunuz yapılmamış. Lütfen mail kutunuzu kontrol ediniz.";
+"error_message.email_in_use" = "Girmiş olduğunuz mail adresi kullanılmış görünüyor. Hesabın sahibi sizseniz giriş ekranından \"Şifremi Unuttum\" yazısına tıklayınız.";
+"error_message.phone_in_use" = "Girmiş olduğunuz telefon numarası daha önceden kullanılmış.";
+"error_message.email_not_exist" = "Girmiş olduğunuz mail adresi mevcut değil.";
+"error_message.please_select_address" = "Lütfen bir adres seçiniz. Adres bilginiz, mektup göndereceğiniz yada alacağınız diğer kullanıcılar ile aranızda ne kadar mesafe olduğunun bilinmesi için gereklidir. Böylelikle mektup gönderim süreleri hesaplanmaktadır.";
+"error_message.unexpected_error" = "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.";
+
+"invete_message" = "Merhaba! Messaging App uygulamasından sana mektup göndermek istiyorum. Birbirimize mektup gönderebilmek için bu uygulamaya kayıt olur musun?\nhttps://www.test.com";
+
+
+
+"address_description" = "Adres Açıklaması";
+"no_matches_found" = "Eşleşme Bulunamadı.";
+"select_photo" = "Fotoğraf Seç";
+"camera" = "Kamera";
+"no_camera_available" = "Kamera Mevcut Değil";
+"photo_library" = "Fotoğraf Galerisi";

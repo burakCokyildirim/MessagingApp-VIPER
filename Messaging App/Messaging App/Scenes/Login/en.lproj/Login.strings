@@ -1,0 +1,90 @@
+
+/* Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "274-yf-Suv"; */
+"274-yf-Suv.normalTitle" = "Forgot Password ?";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "4IV-k9-Wxr"; */
+"4IV-k9-Wxr.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "SMS mesajlarınızı kontrol edin. Doğrulama kodunu size +90%d numarasına gönderdik."; ObjectID = "4xH-h8-V5d"; */
+"4xH-h8-V5d.text" = "SMS mesajlarınızı kontrol edin. Doğrulama kodunu size +90%d numarasına gönderdik.";
+
+/* Class = "UIButton"; normalTitle = "Send Again"; ObjectID = "H80-0X-EWi"; */
+"H80-0X-EWi.normalTitle" = "Send Again";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "KgB-Nr-b62"; */
+"KgB-Nr-b62.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Having trouble signing in?"; ObjectID = "Odu-fN-21C"; */
+"Odu-fN-21C.text" = "Having trouble signing in?";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "OjM-nH-C6r"; */
+"OjM-nH-C6r.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "PIN"; ObjectID = "Qrx-5D-DfS"; */
+"Qrx-5D-DfS.placeholder" = "PIN";
+
+/* Class = "UILabel"; text = "(%d)"; ObjectID = "ScC-TP-dAX"; */
+"ScC-TP-dAX.text" = "(%d)";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Uui-dx-FeT"; */
+"Uui-dx-FeT.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "X6n-Tm-lBa"; */
+"X6n-Tm-lBa.placeholder" = "Phone Number";
+
+/* Class = "UIButton"; normalTitle = "Tamam"; ObjectID = "Ynd-1d-9gZ"; */
+"Ynd-1d-9gZ.normalTitle" = "Tamam";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "cVQ-xG-f69"; */
+"cVQ-xG-f69.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Girmiş olduğunuz e-posta adresine \nkayıtlı bir kullanıcı bulunduğu tadkirde\nposta adresinize şifre sıfırlama linki \ngönderilecektir."; ObjectID = "d9n-hk-MSh"; */
+"d9n-hk-MSh.text" = "Girmiş olduğunuz e-posta adresine \nkayıtlı bir kullanıcı bulunduğu tadkirde\nposta adresinize şifre sıfırlama linki \ngönderilecektir.";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "dXl-dF-4ye"; */
+"dXl-dF-4ye.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "gfw-BB-8SB"; */
+"gfw-BB-8SB.normalTitle" = "Skip";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hhs-6i-di1"; */
+"hhs-6i-di1.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "E-Postanı Kontrol Et !"; ObjectID = "hyI-FV-4Se"; */
+"hyI-FV-4Se.text" = "E-Postanı Kontrol Et !";
+
+/* Class = "UILabel"; text = "Enter your email address and we'll send you a link so you can reconnect to your account."; ObjectID = "iAW-qj-39O"; */
+"iAW-qj-39O.text" = "Enter your email address and we'll send you a link so you can reconnect to your account.";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "jct-hB-r7u"; */
+"jct-hB-r7u.placeholder" = "Address";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "o2f-gh-ZUx"; */
+"o2f-gh-ZUx.placeholder" = "Search";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "orL-E8-CzN"; */
+"orL-E8-CzN.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "qSL-JE-ljG"; */
+"qSL-JE-ljG.text" = "Title";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "sn8-Sa-dJY"; */
+"sn8-Sa-dJY.text" = "Detail";
+
+/* Class = "UITextField"; placeholder = "Name Lastname"; ObjectID = "v5Z-IZ-Y8t"; */
+"v5Z-IZ-Y8t.placeholder" = "Name Lastname";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "vWC-tx-VBE"; */
+"vWC-tx-VBE.placeholder" = "Password";
+
+"87C-ys-QVa.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "w3n-hK-uTZ"; */
+"w3n-hK-uTZ.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Verify Phone Number"; ObjectID = "xKV-gm-96i"; */
+"xKV-gm-96i.text" = "Enter Phone Number";
+
+"NZJ-E4-CjB.normalTitle" = "Change Phone Number";
+
+"4xH-h8-V5d.text" = "Please enter your phone number so that we can verify your account.";

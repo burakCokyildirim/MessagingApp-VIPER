@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "12"; ObjectID = "8yF-td-TsJ"; */
+"8yF-td-TsJ.text" = "12";
+
+/* Class = "UILabel"; text = "hour"; ObjectID = "bHF-qZ-dPS"; */
+"bHF-qZ-dPS.text" = "saat";
+
+/* Class = "UILabel"; text = "."; ObjectID = "deN-Hr-W6f"; */
+"deN-Hr-W6f.text" = ".";
+
+/* Class = "UILabel"; text = "day"; ObjectID = "eoS-4e-nDm"; */
+"eoS-4e-nDm.text" = "gün";
+
+/* Class = "UILabel"; text = "09"; ObjectID = "kap-pe-52I"; */
+"kap-pe-52I.text" = "09";
+
+/* Class = "UILabel"; text = "."; ObjectID = "pUi-jC-YUM"; */
+"pUi-jC-YUM.text" = ".";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "qMh-eO-4J6"; */
+"qMh-eO-4J6.text" = "40";
+
+/* Class = "UILabel"; text = "minute"; ObjectID = "ufD-up-Ykw"; */
+"ufD-up-Ykw.text" = "dakika";

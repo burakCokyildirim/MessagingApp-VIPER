@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AnimatedCollectionViewLayout (1.0.1)
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - PhoneNumberKit (3.3.1):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.1)
+    - PhoneNumberKit/UIKit (= 3.3.1)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.1)
+  - PhoneNumberKit/UIKit (3.3.1):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AnimatedCollectionViewLayout
+  - Kingfisher (~> 5.0)
+  - NVActivityIndicatorView
+  - PhoneNumberKit (~> 3.3)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AnimatedCollectionViewLayout
+    - Kingfisher
+    - NVActivityIndicatorView
+    - PhoneNumberKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AnimatedCollectionViewLayout: 00f0997fd26f0fd02d8b99765023b95570b5d826
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  PhoneNumberKit: ff153d5e299f6da566cb73c6aa71e354933b2932
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: facc85b4ac94ea73b7794f219eb9a4d277634aa4
+
+COCOAPODS: 1.10.1

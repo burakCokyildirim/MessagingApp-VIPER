@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Messaging App
+
+  Created by Burak Çokyıldırım on 28.05.2020.
+  Copyright © 2020 Softbea. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "Profil resminizi kameranızdan yükleyebilmeniz için kamera erişimine izin vermeniz gerekmektedir.";
+"NSLocationWhenInUseUsageDescription" = "Adres verisi uygulamamızda çok önemlidir. Meektup gönderme işlemi süresi tamamen konum bilgilerine göre çalışmaktadır. Bu uygulamanın konumunuza erişmesi gerekiyor.";

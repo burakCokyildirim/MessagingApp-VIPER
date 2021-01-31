@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Page1Cell" customModule="MessagingApp" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="gi0-jW-W8t" id="7Iz-PZ-Aqm"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="gi0-jW-W8t">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="onboarding2Background" translatesAutoresizingMaskIntoConstraints="NO" id="ulY-aN-gc6">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                </imageView>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalCentering" alignment="center" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="hcW-f2-7WL">
+                    <rect key="frame" x="52" y="502.5" width="310.5" height="82.5"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Customize Your Letter" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X7f-Z9-2Dl">
+                            <rect key="frame" x="25.5" y="0.0" width="259" height="30"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
+                            <color key="textColor" red="0.0" green="0.49803921569999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="heightClass=regular-widthClass=regular">
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="32"/>
+                            </variation>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Choose your envelope, letter stamp, paper and start writing ..." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NCU-XH-wM1">
+                            <rect key="frame" x="15" y="40" width="280.5" height="42.5"/>
+                            <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="heightClass=regular-widthClass=regular">
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                            </variation>
+                        </label>
+                    </subviews>
+                </stackView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="onboarding2Image" translatesAutoresizingMaskIntoConstraints="NO" id="yfY-Fs-hMP">
+                    <rect key="frame" x="52" y="115.5" width="310.5" height="337"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="yfY-Fs-hMP" secondAttribute="height" multiplier="426:462" id="H9R-nI-DrU"/>
+                        <constraint firstAttribute="width" relation="lessThanOrEqual" constant="500" id="k1m-Iw-P2J"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="yfY-Fs-hMP" firstAttribute="width" secondItem="hcW-f2-7WL" secondAttribute="width" priority="999" id="IAS-4X-tHr"/>
+                <constraint firstAttribute="bottom" secondItem="ulY-aN-gc6" secondAttribute="bottom" id="IyI-iJ-j5W"/>
+                <constraint firstItem="ulY-aN-gc6" firstAttribute="leading" secondItem="JV2-iC-W17" secondAttribute="leading" id="NAw-e5-6s3"/>
+                <constraint firstItem="hcW-f2-7WL" firstAttribute="centerY" secondItem="JV2-iC-W17" secondAttribute="centerY" multiplier="1.2" id="Qwv-eo-hcI"/>
+                <constraint firstItem="hcW-f2-7WL" firstAttribute="centerX" secondItem="JV2-iC-W17" secondAttribute="centerX" id="Su3-ck-xtU"/>
+                <constraint firstItem="hcW-f2-7WL" firstAttribute="width" secondItem="JV2-iC-W17" secondAttribute="width" multiplier="0.75" id="UEb-gP-Kqo"/>
+                <constraint firstItem="yfY-Fs-hMP" firstAttribute="centerX" secondItem="JV2-iC-W17" secondAttribute="centerX" id="hsm-H6-cuD"/>
+                <constraint firstItem="JV2-iC-W17" firstAttribute="trailing" secondItem="ulY-aN-gc6" secondAttribute="trailing" id="mJ2-sZ-maV"/>
+                <constraint firstItem="hcW-f2-7WL" firstAttribute="top" secondItem="yfY-Fs-hMP" secondAttribute="bottom" constant="50" id="mkh-pk-lr5"/>
+                <constraint firstItem="ulY-aN-gc6" firstAttribute="top" secondItem="gi0-jW-W8t" secondAttribute="top" id="tqE-NT-0KJ"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="JV2-iC-W17"/>
+            <point key="canvasLocation" x="139" y="145"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="onboarding2Background" width="562.5" height="1217.5"/>
+        <image name="onboarding2Image" width="426" height="462"/>
+    </resources>
+</document>

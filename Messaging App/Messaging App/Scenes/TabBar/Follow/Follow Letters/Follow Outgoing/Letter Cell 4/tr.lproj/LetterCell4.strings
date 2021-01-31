@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "day"; ObjectID = "6jy-Px-weo"; */
+"6jy-Px-weo.text" = "gün";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "87X-ae-pg1"; */
+"87X-ae-pg1.text" = "00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "8m0-fQ-Xai"; */
+"8m0-fQ-Xai.text" = "00";
+
+/* Class = "UILabel"; text = "Burak Çokyıldırım"; ObjectID = "JXF-ct-XZI"; */
+"JXF-ct-XZI.text" = "Burak Çokyıldırım";
+
+/* Class = "UILabel"; text = "."; ObjectID = "LzA-Ef-v4F"; */
+"LzA-Ef-v4F.text" = ".";
+
+/* Class = "UILabel"; text = "hour"; ObjectID = "Ogb-Cs-Xnd"; */
+"Ogb-Cs-Xnd.text" = "saat";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "Vul-b7-5m0"; */
+"Vul-b7-5m0.text" = "00";
+
+/* Class = "UILabel"; text = "To:"; ObjectID = "Z1k-1V-3Mp"; */
+"Z1k-1V-3Mp.text" = "Kime:";
+
+/* Class = "UILabel"; text = "minute"; ObjectID = "afR-Qb-ZBy"; */
+"afR-Qb-ZBy.text" = "dakika";
+
+/* Class = "UILabel"; text = "."; ObjectID = "vFS-gK-l7T"; */
+"vFS-gK-l7T.text" = ".";

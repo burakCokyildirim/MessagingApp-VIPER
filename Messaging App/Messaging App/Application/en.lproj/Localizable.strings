@@ -1,0 +1,129 @@
+/* 
+  Localizable. strings.strings
+  Messaging App
+
+  Created by Burak Çokyıldırım on 3.04.2020.
+  Copyright © 2020 Softbea. All rights reserved.
+*/
+
+"register.select_this_location" = "Select this location.";
+
+"confirmation_code.enter_phone_number" = "Enter Phone Number";
+"confirmation_code.verify_phone_number" = "Verify Phone Number";
+"confirmation_code.enter_address_information" = "Enter Address Information";
+
+"confirmation_code.verify_text" = "Please enter your phone number so that we can verify your account.";
+"confirmation_code.check_sms_text" = "Check the SMS messages. We sent you the verification code at +%d%.0f.";
+"confirmation_code.address_text" = "We need your address information to calculate the time for sending the letter (representation).";
+
+"confirmation_code.send_again_text" = "Send again";
+
+"tab-bar.home" = "Home";
+"tab-bar.incoming" = "Incoming";
+"tab-bar.outgoing" = "Outgoing";
+"tab-bar.follow" = "Follow";
+
+"home.have_letter_to_future" = "%d letters are on the way!";
+"home.not_have_letter_to_future" = "You have not any letter to come.";
+
+"format_day" = "%02dd";
+"format_hour" = "%02dh";
+"format_minute" = "%02dm";
+
+"terms_and_conditions_text1" = "I agree to the Messaging App %@.";
+"terms_and_conditions_text2" = "Terms and Conditions";
+
+"register_button_text1" = "Don't have an account yet?\nSign up %@...";
+"register_button_text2" = "here";
+
+"terms_of_use_link" = "https://test.com/terms-of-use.html";
+"privacy_policy_link" = "https://test.com/privacy-policy.html";
+
+
+"yes" = "Yes";
+"no" = "No";
+"ok" = "OK";
+"close" = "Cancel";
+"cancel" = "Cancel";
+"warning" = "Warning";
+"error" = "Error";
+"success" = "Successful";
+"generic" = "Error";
+"unknown" = "Unknown Error";
+"finish" = "Finish";
+"next" = "Next";
+"completed" = "Completed";
+"skip" = "Skip";
+"attention" = "Attention";
+
+
+// Titles
+
+"letters_expected" = "Letters I Expected";
+"letters_to_be_transmitted" = "Letters To Be Transmitted";
+"letter_time_tracking" = "Letter Time Tracking";
+"my_incoming_letters" = "My Incoming Letters";
+"my_outgoing_letters" = "My Outgoing Letters";
+"select_envelope" = "Select Envelope!";
+"select_your_stamp" = "Select Your Stamp";
+"choose_your_paper" = "Choose Your Paper!";
+"put_your_mind_on_paper" = "Put Your Mind on Paper!";
+"who_will_send" = "Who will you send to?";
+"settings" = "Settings";
+
+"preview" = "Preview";
+"please_complate" = "Please Complate";
+
+// Message
+
+"warning_empty_name" = "Name cannot be empty!";
+"warning_empty_email" = "Email cannot be empty!";
+"warning_empty_phoneNumber" = "Phone Number cannot be empty!";
+"warning_empty_password" = "Password cannot be empty!";
+"warning_short_password" = "The password must be at least 6 characters long.";
+"warning_wrong_name" = "Please enter your name correctly.";
+"warning_wrong_email" = "Please enter a valid email address.";
+"warning_empty_confirmation_code" = "Please enter your %d digit verification code.";
+"warning_empty_letter_content" = "Please write something for your letter.";
+"warning_not_select_user" = "Start typing the name of the user you want to send and select it from the list.";
+"warning_empty_areas" = "Fields cannot be empty!";
+"warning_notmatch_passwords" = "Passwords do not match.";
+"warning_is_old_passwords" = "Your new password cannot be the same as your old password!";
+"warning_checkbox_unchecked" = "To complete the registration process, check the box and accept the \"Terms and Conditions\".";
+"message_text.register_completed_and_email_verify_required" = "Register completed. Check your mailbox to confirm your account.";
+"message_text.successfully_sent_password_reset_link" = "Password reset link has been successfully sent to your e-mail address.";
+"message_text.successfully_sent_letter" = "Congratulations! Your letter set out to be forwarded. Now you can keep track of when your letter will arrive from the menu.";
+"message_text.change_password_process_success" = "Your password has been successfully changed.";
+"message_text.please_enter_address_description" = "Please enter an address description.";
+"message_text.no_whatsapp" = "Whatsapp application is not installed on your device.";
+"message_text.revert_letter" = "Are you sure you want to cancel sending the letter?";
+"message_text.block_user" = "Are you sure you want to block this user?";
+"message_text.report_user" = "Are you sure you want to report this user?";
+"message_text.successed_blocking" = "This user successfully blocked. You will no longer receive letters from this user.";
+"message_text.successed_reporting" = "This user successfully reported. Our technical team will examine your complaint.";
+
+"error_message.has_no_internet" = "Please check your internet connection.";
+"error_message.http_error" = "Service error occurred.";
+"error_message.somethings_wrong" = "An unexpected error has occurred. Please try again later.";
+"error_message.parse_error" = "An unexpected error has occurred. Please try again later.";
+"error_message.token_expired" = "Your session has expired. Please login again.";
+"error_message.validation_error" = "Validation error.";
+"error_message.wrong_passowrd" = "You entered an incorrect e-mail or password.";
+"error_message.old_wrong_passowrd" = "You have entered your old password incorrectly.";
+"error_message.wrong_code" = "Your verification code is incorrect.";
+"error_message.email_activation_required" = "Your mail activation has not been made. Please check your mailbox.";
+"error_message.email_in_use" = "The email address you entered appears to be used. If you are the owner of the account, click \"Forgot Password\" on the login screen.";
+"error_message.phone_in_use" = "The phone number you entered has already been used.";
+"error_message.email_not_exist" = "The email address you entered does not exist.";
+"error_message.please_select_address" = "Please select an address. Your address information is required to know how far between you and other users. Thus, the arrival times of the letters are calculated.";
+"error_message.unexpected_error" = "An unexpected error has occurred. Please try again later.";
+
+"invete_message" = "Hello there! I want to send you a letter from the Messaging App application. Can you sign-up this app to we can send letters to each other?\nhttps://www.test.com";
+
+
+"address_description" = "Address Description";
+"no_matches_found" = "No matches found.";
+"select_photo" = "Select Photo";
+"camera" = "Camera";
+"no_camera_available" = "No Camera available.";
+"photo_library" = "Photo Library";

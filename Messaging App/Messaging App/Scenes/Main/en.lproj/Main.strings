@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "1J7-2R-Mf1"; */
+"1J7-2R-Mf1.text" = "Delete Account";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "9Fo-LP-dFo"; */
+"9Fo-LP-dFo.text" = "Password";
+
+/* Class = "UILabel"; text = "You can update profile picture and password..."; ObjectID = "BJa-fG-VCp"; */
+"BJa-fG-VCp.text" = "You can update profile picture and password...";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "CYP-uw-eGX"; */
+"CYP-uw-eGX.text" = "Email";
+
+/* Class = "UILabel"; text = "Name Lastname"; ObjectID = "Gbm-ay-FzS"; */
+"Gbm-ay-FzS.text" = "Name Lastname";
+
+/* Class = "UILabel"; text = "Profile Picture"; ObjectID = "Mf7-td-XQ0"; */
+"Mf7-td-XQ0.text" = "Profile Picture";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "SLt-9I-86n"; */
+"SLt-9I-86n.text" = "Logout";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "Tqz-eD-k1a"; */
+"Tqz-eD-k1a.text" = "Phone Number";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Xel-7I-CKf"; */
+"Xel-7I-CKf.text" = "Address";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "khP-0C-7IK"; */
+"khP-0C-7IK.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "nuT-B0-Z4v"; */
+"nuT-B0-Z4v.text" = "Terms and Conditions";
+
+/* Class = "UIViewController"; title = "Settings"; ObjectID = "qA4-N2-Vv1"; */
+"qA4-N2-Vv1.title" = "Settings";
+
+/* Class = "UILabel"; text = "About Messaging App"; ObjectID = "wop-Eg-l1a"; */
+"wop-Eg-l1a.text" = "About Messaging App";

@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "00"; ObjectID = "7GY-wL-Aan"; */
+"7GY-wL-Aan.text" = "00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "CJs-qh-mse"; */
+"CJs-qh-mse.text" = "00";
+
+/* Class = "UILabel"; text = "day"; ObjectID = "DOm-W7-sFh"; */
+"DOm-W7-sFh.text" = "gün";
+
+/* Class = "UILabel"; text = "."; ObjectID = "FC5-k7-nwk"; */
+"FC5-k7-nwk.text" = ".";
+
+/* Class = "UILabel"; text = "hour"; ObjectID = "LHe-SK-Qs5"; */
+"LHe-SK-Qs5.text" = "saat";
+
+/* Class = "UILabel"; text = "minute"; ObjectID = "MYB-gx-DA3"; */
+"MYB-gx-DA3.text" = "dakika";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "g2h-sX-Dhm"; */
+"g2h-sX-Dhm.text" = "00";
+
+/* Class = "UILabel"; text = "."; ObjectID = "jLp-Vk-tQ8"; */
+"jLp-Vk-tQ8.text" = ".";

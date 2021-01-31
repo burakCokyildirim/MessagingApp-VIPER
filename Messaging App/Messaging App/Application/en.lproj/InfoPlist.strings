@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Messaging App
+
+  Created by Burak Çokyıldırım on 28.05.2020.
+  Copyright © 2020 Softbea. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "You must allow camera access before you can upload your profile picture from your camera.";
+"NSLocationWhenInUseUsageDescription" = "Address data is very important in our application. The letter sending time in our application works completely based on location information. This app needs access to your location.";

@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6qL-6h-XhX"; */
+"6qL-6h-XhX.text" = "0";
+
+/* Class = "UIViewController"; title = "My Incoming Letters"; ObjectID = "7be-9H-NCX"; */
+"7be-9H-NCX.title" = "My Incoming Letters";
+
+/* Class = "UIViewController"; title = "Select Envelope"; ObjectID = "B7q-V7-sYM"; */
+"B7q-V7-sYM.title" = "Select Envelope";
+
+/* Class = "UIViewController"; title = "Letter Time Tracking"; ObjectID = "FUt-fz-KOm"; */
+"FUt-fz-KOm.title" = "Letter Time Tracking";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Hyk-RP-7Of"; */
+"Hyk-RP-7Of.text" = "0";
+
+/* Class = "UILabel"; text = "Incoming Letters"; ObjectID = "LGl-Vc-Xea"; */
+"LGl-Vc-Xea.text" = "Incoming Letters";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Qa8-Ca-D41"; */
+"Qa8-Ca-D41.text" = "0";
+
+/* Class = "UILabel"; text = "Outgoing Letters"; ObjectID = "RNl-fV-LJL"; */
+"RNl-fV-LJL.text" = "Outgoing Letters";
+
+/* Class = "UIButton"; normalTitle = "Send Letter"; ObjectID = "ZSg-qR-xKr"; */
+"ZSg-qR-xKr.normalTitle" = "Send Letter";
+
+/* Class = "UILabel"; text = "How to envelop your mysterious letter\nwould you like to send it?"; ObjectID = "aVh-Ta-QvP"; */
+"aVh-Ta-QvP.text" = "How to envelop your mysterious letter\nwould you like to send it?";
+
+/* Class = "UIButton"; normalTitle = "Letters To Be Transmitted"; ObjectID = "dku-vP-hyM"; */
+"dku-vP-hyM.normalTitle" = "Letters To Be Transmitted";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "hzV-Oa-At9"; */
+"hzV-Oa-At9.text" = "0";
+
+/* Class = "UILabel"; text = "Outgoing Letters"; ObjectID = "i4l-8W-lzx"; */
+"i4l-8W-lzx.text" = "Outgoing Letters";
+
+/* Class = "UILabel"; text = "Have you decided what to write?\nThen start creating your letter!"; ObjectID = "iMc-A1-XNI"; */
+"iMc-A1-XNI.text" = "Have you decided what to write?\nThen start creating your letter!";
+
+/* Class = "UIViewController"; title = "My Outgoing Letters"; ObjectID = "ipz-iO-FBO"; */
+"ipz-iO-FBO.title" = "My Outgoing Letters";
+
+/* Class = "UIButton"; normalTitle = "Letters I expected"; ObjectID = "j0w-YF-Ege"; */
+"j0w-YF-Ege.normalTitle" = "Letters I expected";
+
+/* Class = "UILabel"; text = "Incoming Letters"; ObjectID = "w0P-ek-Z3r"; */
+"w0P-ek-Z3r.text" = "Incoming Letters";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "zKS-hn-7aZ"; */
+"zKS-hn-7aZ.normalTitle" = "Next";

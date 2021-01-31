@@ -1,0 +1,84 @@
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "2yx-H6-tDG"; */
+"2yx-H6-tDG.normalTitle" = "Next";
+
+/* Class = "UIViewController"; title = "Person Selection"; ObjectID = "3DW-3C-WKm"; */
+"3DW-3C-WKm.title" = "Person Selection";
+
+/* Class = "UILabel"; text = "10g 14s 10dk "; ObjectID = "3gD-Jo-cIk"; */
+"3gD-Jo-cIk.text" = "10g 14s 10dk ";
+
+/* Class = "UILabel"; text = "Your letter will look like this:"; ObjectID = "4Hd-SR-GWB"; */
+"4Hd-SR-GWB.text" = "Your letter will look like this:";
+
+/* Class = "UITextField"; placeholder = "Enter Username"; ObjectID = "5sI-WB-E9c"; */
+"5sI-WB-E9c.placeholder" = "Enter Username";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "6ZN-gH-TSV"; */
+"6ZN-gH-TSV.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Burak Çokyıldırım"; ObjectID = "EyY-eQ-Sb1"; */
+"EyY-eQ-Sb1.text" = "Burak Çokyıldırım";
+
+/* Class = "UILabel"; text = "Who do you want to send your letter to?\nPlease enter the registered username."; ObjectID = "IbP-SK-5Fl"; */
+"IbP-SK-5Fl.text" = "Who do you want to send your letter to?\nPlease enter the registered username.";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Iq1-bB-abK"; */
+"Iq1-bB-abK.normalTitle" = "Next";
+
+/* Class = "UIViewController"; title = "Write"; ObjectID = "Jlt-vn-rM3"; */
+"Jlt-vn-rM3.title" = "Write";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Jmq-vb-gPA"; */
+"Jmq-vb-gPA.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "With which stamp will you send the letter?"; ObjectID = "Nn6-gw-N6f"; */
+"Nn6-gw-N6f.text" = "With which stamp will you send the letter?";
+
+/* Class = "UILabel"; text = "10g 14s 10dk "; ObjectID = "PBt-pA-Mtc"; */
+"PBt-pA-Mtc.text" = "10g 14s 10dk ";
+
+/* Class = "UIViewController"; title = "Select Paper"; ObjectID = "QKu-Tz-Acn"; */
+"QKu-Tz-Acn.title" = "Select Paper";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "Rvd-HE-Rbv"; */
+"Rvd-HE-Rbv.normalTitle" = "Send";
+
+/* Class = "UIViewController"; title = "Select Stamp"; ObjectID = "UFL-Fv-HSl"; */
+"UFL-Fv-HSl.title" = "Select Stamp";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "dGe-4d-DRM"; */
+"dGe-4d-DRM.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "dIx-bb-GLw"; */
+"dIx-bb-GLw.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "dUC-iS-vci"; */
+"dUC-iS-vci.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "10g 14s 10dk "; ObjectID = "dvq-E2-p2t"; */
+"dvq-E2-p2t.text" = "10g 14s 10dk ";
+
+/* Class = "UILabel"; text = "Choose how you want to send your letter!"; ObjectID = "g1o-eG-ZqT"; */
+"g1o-eG-ZqT.text" = "Choose how you want to send your letter!";
+
+/* Class = "UIViewController"; title = "Preview"; ObjectID = "nKI-8n-HjJ"; */
+"nKI-8n-HjJ.title" = "Preview";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ot9-Mp-4ge"; */
+"ot9-Mp-4ge.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "10g 14s 10dk "; ObjectID = "pf4-5H-bek"; */
+"pf4-5H-bek.text" = "10g 14s 10dk ";
+
+/* Class = "UIViewController"; title = "How to send?"; ObjectID = "sKk-sA-srC"; */
+"sKk-sA-srC.title" = "How to send?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "war-Ri-dHg"; */
+"war-Ri-dHg.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Invite your friend!"; ObjectID = "yus-LB-HUn"; */
+"yus-LB-HUn.text" = "Invite your friend!";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "zzk-SD-bKZ"; */
+"zzk-SD-bKZ.normalTitle" = "Back";

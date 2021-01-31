@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="circleCell" id="gTV-IL-0wX" customClass="CircleCell" customModule="MessagingApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="285" height="285"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="285" height="285"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="homeBackCircle" translatesAutoresizingMaskIntoConstraints="NO" id="LdC-ND-KXT">
+                        <rect key="frame" x="0.0" y="0.0" width="285" height="285"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="minute" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ufD-up-Ykw">
+                        <rect key="frame" x="174" y="151" width="51.5" height="19"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="17"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="22"/>
+                        </variation>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="hour" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bHF-qZ-dPS">
+                        <rect key="frame" x="125.5" y="151" width="34.5" height="19"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="17"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="22"/>
+                        </variation>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="day" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eoS-4e-nDm">
+                        <rect key="frame" x="72" y="151" width="27.5" height="19"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="17"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="22"/>
+                        </variation>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="40" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qMh-eO-4J6">
+                        <rect key="frame" x="180" y="101.5" width="39" height="39.5"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="35"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="40"/>
+                        </variation>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="12" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8yF-td-TsJ">
+                        <rect key="frame" x="123" y="101.5" width="39" height="39.5"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="35"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="40"/>
+                        </variation>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pUi-jC-YUM">
+                        <rect key="frame" x="109" y="101.5" width="10" height="39.5"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="35"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="40"/>
+                        </variation>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="09" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kap-pe-52I">
+                        <rect key="frame" x="66" y="101.5" width="39" height="39.5"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="35"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="40"/>
+                        </variation>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="deN-Hr-W6f">
+                        <rect key="frame" x="166" y="101.5" width="10" height="39.5"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="35"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="40"/>
+                        </variation>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="8yF-td-TsJ" firstAttribute="leading" secondItem="pUi-jC-YUM" secondAttribute="trailing" constant="4" id="2Hj-4n-DHc"/>
+                <constraint firstItem="bHF-qZ-dPS" firstAttribute="centerX" secondItem="8yF-td-TsJ" secondAttribute="centerX" id="75J-Z1-3oh"/>
+                <constraint firstItem="deN-Hr-W6f" firstAttribute="leading" secondItem="8yF-td-TsJ" secondAttribute="trailing" constant="4" id="89i-Kg-ZVt"/>
+                <constraint firstItem="pUi-jC-YUM" firstAttribute="leading" secondItem="kap-pe-52I" secondAttribute="trailing" constant="4" id="BWh-dC-MMr"/>
+                <constraint firstItem="8yF-td-TsJ" firstAttribute="centerY" secondItem="LdC-ND-KXT" secondAttribute="centerY" multiplier="0.85" id="Cym-wK-sUv"/>
+                <constraint firstAttribute="bottom" secondItem="LdC-ND-KXT" secondAttribute="bottom" id="JWk-Ei-wRv"/>
+                <constraint firstItem="LdC-ND-KXT" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="LCy-Np-BtX"/>
+                <constraint firstAttribute="trailing" secondItem="LdC-ND-KXT" secondAttribute="trailing" id="LXz-cs-8p9"/>
+                <constraint firstItem="bHF-qZ-dPS" firstAttribute="top" secondItem="8yF-td-TsJ" secondAttribute="bottom" constant="10" id="NQ8-2x-ZEa"/>
+                <constraint firstItem="qMh-eO-4J6" firstAttribute="centerY" secondItem="8yF-td-TsJ" secondAttribute="centerY" id="RDO-Ld-XbN"/>
+                <constraint firstItem="ufD-up-Ykw" firstAttribute="centerX" secondItem="qMh-eO-4J6" secondAttribute="centerX" id="X9y-dJ-dYZ"/>
+                <constraint firstItem="eoS-4e-nDm" firstAttribute="centerY" secondItem="bHF-qZ-dPS" secondAttribute="centerY" id="dla-iD-4qQ"/>
+                <constraint firstItem="ufD-up-Ykw" firstAttribute="centerY" secondItem="bHF-qZ-dPS" secondAttribute="centerY" id="elH-fs-JyT"/>
+                <constraint firstItem="pUi-jC-YUM" firstAttribute="centerY" secondItem="kap-pe-52I" secondAttribute="centerY" id="fP3-lL-4ao"/>
+                <constraint firstItem="qMh-eO-4J6" firstAttribute="leading" secondItem="deN-Hr-W6f" secondAttribute="trailing" constant="4" id="lRM-MD-fGn"/>
+                <constraint firstItem="kap-pe-52I" firstAttribute="centerY" secondItem="8yF-td-TsJ" secondAttribute="centerY" id="oHA-7g-IiF"/>
+                <constraint firstItem="8yF-td-TsJ" firstAttribute="centerX" secondItem="LdC-ND-KXT" secondAttribute="centerX" id="p7H-rG-Cob"/>
+                <constraint firstItem="eoS-4e-nDm" firstAttribute="centerX" secondItem="kap-pe-52I" secondAttribute="centerX" id="q0E-Hv-npk"/>
+                <constraint firstItem="LdC-ND-KXT" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="t03-8c-vaY"/>
+                <constraint firstItem="deN-Hr-W6f" firstAttribute="centerY" secondItem="qMh-eO-4J6" secondAttribute="centerY" id="v9v-R0-lO2"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="158" height="135"/>
+            <connections>
+                <outlet property="dayCountLabel" destination="kap-pe-52I" id="6ie-KG-o0P"/>
+                <outlet property="hourCountLabel" destination="8yF-td-TsJ" id="9Xs-IS-o5A"/>
+                <outlet property="minuteCountLabel" destination="qMh-eO-4J6" id="CoJ-99-IlR"/>
+            </connections>
+            <point key="canvasLocation" x="28" y="87"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="homeBackCircle" width="360" height="361.5"/>
+    </resources>
+</document>

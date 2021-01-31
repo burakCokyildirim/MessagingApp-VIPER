@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="ipad12_9rounded" orientation="portrait" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Page2Cell" customModule="MessagingApp" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="aE7-RV-pdq" id="glt-X1-8mg"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="aE7-RV-pdq">
+            <rect key="frame" x="0.0" y="0.0" width="1024" height="1366"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="onboarding3Background" translatesAutoresizingMaskIntoConstraints="NO" id="mFd-qg-Bgc">
+                    <rect key="frame" x="0.0" y="0.0" width="1024" height="1366"/>
+                </imageView>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalCentering" alignment="center" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="OkY-76-Ix5">
+                    <rect key="frame" x="102.5" y="905" width="819" height="74"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You're Ready to Send!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H2r-Hh-ZLa">
+                            <rect key="frame" x="247" y="0.0" width="325" height="38.5"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
+                            <color key="textColor" red="0.0" green="0.49803921569999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="heightClass=regular-widthClass=regular">
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="32"/>
+                            </variation>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Choose how you want to send your letter. And Send." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="z0a-MY-mHY">
+                            <rect key="frame" x="174" y="48.5" width="471.5" height="25.5"/>
+                            <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="heightClass=regular-widthClass=regular">
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                            </variation>
+                        </label>
+                    </subviews>
+                </stackView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="onboarding3Image" translatesAutoresizingMaskIntoConstraints="NO" id="g1y-Dm-YVI">
+                    <rect key="frame" x="212" y="205" width="600" height="600"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="g1y-Dm-YVI" secondAttribute="height" multiplier="1:1" id="LHn-RB-Oog"/>
+                        <constraint firstAttribute="width" relation="lessThanOrEqual" constant="600" id="scw-fq-koa"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="ktZ-U3-86c" firstAttribute="trailing" secondItem="mFd-qg-Bgc" secondAttribute="trailing" id="Aob-1w-nve"/>
+                <constraint firstItem="mFd-qg-Bgc" firstAttribute="leading" secondItem="ktZ-U3-86c" secondAttribute="leading" id="BqY-mL-JZX"/>
+                <constraint firstItem="mFd-qg-Bgc" firstAttribute="top" secondItem="aE7-RV-pdq" secondAttribute="top" id="Tzi-7n-9WX"/>
+                <constraint firstAttribute="bottom" secondItem="mFd-qg-Bgc" secondAttribute="bottom" id="axj-CU-29m"/>
+                <constraint firstItem="g1y-Dm-YVI" firstAttribute="centerX" secondItem="ktZ-U3-86c" secondAttribute="centerX" id="cuv-8i-Mbk"/>
+                <constraint firstItem="OkY-76-Ix5" firstAttribute="centerY" secondItem="ktZ-U3-86c" secondAttribute="centerY" multiplier="1.4" id="ffe-H6-mww"/>
+                <constraint firstItem="OkY-76-Ix5" firstAttribute="centerX" secondItem="ktZ-U3-86c" secondAttribute="centerX" id="kVX-0O-ps0"/>
+                <constraint firstItem="OkY-76-Ix5" firstAttribute="top" secondItem="g1y-Dm-YVI" secondAttribute="bottom" constant="60" id="oCr-TM-qhW">
+                    <variation key="heightClass=regular-widthClass=regular" constant="100"/>
+                </constraint>
+                <constraint firstItem="OkY-76-Ix5" firstAttribute="width" secondItem="ktZ-U3-86c" secondAttribute="width" multiplier="0.8" id="seP-Zm-t2n"/>
+                <constraint firstItem="g1y-Dm-YVI" firstAttribute="width" secondItem="OkY-76-Ix5" secondAttribute="width" multiplier="1.1" priority="999" id="y2g-SE-TfC"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ktZ-U3-86c"/>
+            <point key="canvasLocation" x="139" y="145"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="onboarding3Background" width="563" height="1219"/>
+        <image name="onboarding3Image" width="534.5" height="534"/>
+    </resources>
+</document>
